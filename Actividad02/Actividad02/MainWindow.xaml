@@ -1,0 +1,28 @@
+﻿<Window x:Class="Actividad02.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Actividad02"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Background="#FF2B2B2B">
+    <Grid>
+
+        <Rectangle x:Name="outerRectangle" HorizontalAlignment="Left" Height="45" Margin="49,48,0,0" VerticalAlignment="Top" RadiusX="20" RadiusY="20" Width="120" Stroke="White" StrokeThickness="5"/>
+        <Rectangle x:Name="innerRectangle" Stroke="Black" Fill="White" Margin="74,57,660,350"/>
+        <Button x:Name="myContentPresenter" HorizontalAlignment="Left" Height="37" Margin="59,52,0,0" VerticalAlignment="Top" Width="95" Background="{x:Null}" BorderBrush="{x:Null}" Click="Button_Click" FontFamily="Segoe UI Semilight" FontSize="16" Content="Boton"/>
+        <Rectangle x:Name="glassCube" HorizontalAlignment="Left" Height="45" Margin="49,48,0,0" VerticalAlignment="Top" RadiusX="10" RadiusY="10" Width="120" Stroke="White" StrokeThickness="2" Opacity="0">
+            <Rectangle.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFCCF0FF" Offset="0"/>
+                    <GradientStop Color="White" Offset="1"/>
+                    <GradientStop Color="#BFFFFFFF" Offset="0.201"/>
+                    <GradientStop Color="Transparent" Offset="0.389"/>
+                    <GradientStop Color="#BFFFFFFF" Offset="0.582"/>
+                    <GradientStop Color="Transparent" Offset="0.787"/>
+                </LinearGradientBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+
+    </Grid>
+</Window>

@@ -1,0 +1,16 @@
+C:\Users\alumne-DAM\Documents\Github\Interfaces\Actividad03\Actividad03\Actividad03\bin\Debug\net8.0-windows\Actividad03.exe
+C:\Users\alumne-DAM\Documents\Github\Interfaces\Actividad03\Actividad03\Actividad03\bin\Debug\net8.0-windows\Actividad03.deps.json
+C:\Users\alumne-DAM\Documents\Github\Interfaces\Actividad03\Actividad03\Actividad03\bin\Debug\net8.0-windows\Actividad03.runtimeconfig.json
+C:\Users\alumne-DAM\Documents\Github\Interfaces\Actividad03\Actividad03\Actividad03\bin\Debug\net8.0-windows\Actividad03.dll
+C:\Users\alumne-DAM\Documents\Github\Interfaces\Actividad03\Actividad03\Actividad03\bin\Debug\net8.0-windows\Actividad03.pdb
+C:\Users\alumne-DAM\Documents\Github\Interfaces\Actividad03\Actividad03\Actividad03\obj\Debug\net8.0-windows\Actividad03.Form1.resources
+C:\Users\alumne-DAM\Documents\Github\Interfaces\Actividad03\Actividad03\Actividad03\obj\Debug\net8.0-windows\Actividad03.csproj.GenerateResource.cache
+C:\Users\alumne-DAM\Documents\Github\Interfaces\Actividad03\Actividad03\Actividad03\obj\Debug\net8.0-windows\Actividad03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumne-DAM\Documents\Github\Interfaces\Actividad03\Actividad03\Actividad03\obj\Debug\net8.0-windows\Actividad03.AssemblyInfoInputs.cache
+C:\Users\alumne-DAM\Documents\Github\Interfaces\Actividad03\Actividad03\Actividad03\obj\Debug\net8.0-windows\Actividad03.AssemblyInfo.cs
+C:\Users\alumne-DAM\Documents\Github\Interfaces\Actividad03\Actividad03\Actividad03\obj\Debug\net8.0-windows\Actividad03.csproj.CoreCompileInputs.cache
+C:\Users\alumne-DAM\Documents\Github\Interfaces\Actividad03\Actividad03\Actividad03\obj\Debug\net8.0-windows\Actividad03.dll
+C:\Users\alumne-DAM\Documents\Github\Interfaces\Actividad03\Actividad03\Actividad03\obj\Debug\net8.0-windows\refint\Actividad03.dll
+C:\Users\alumne-DAM\Documents\Github\Interfaces\Actividad03\Actividad03\Actividad03\obj\Debug\net8.0-windows\Actividad03.pdb
+C:\Users\alumne-DAM\Documents\Github\Interfaces\Actividad03\Actividad03\Actividad03\obj\Debug\net8.0-windows\Actividad03.genruntimeconfig.cache
+C:\Users\alumne-DAM\Documents\Github\Interfaces\Actividad03\Actividad03\Actividad03\obj\Debug\net8.0-windows\ref\Actividad03.dll

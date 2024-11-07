@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alumne-DAM\\Documents\\Github\\Interfaces\\Examen01\\Examen01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14CCE234-E08A-4280-AB68-A523BD65A2CF}|Examen01\\Examen01.csproj|c:\\users\\alumne-dam\\documents\\github\\interfaces\\examen01\\examen01\\examen01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14CCE234-E08A-4280-AB68-A523BD65A2CF}|Examen01\\Examen01.csproj|solutionrelative:examen01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CCE234-E08A-4280-AB68-A523BD65A2CF}|Examen01\\Examen01.csproj|c:\\users\\alumne-dam\\documents\\github\\interfaces\\examen01\\examen01\\examen01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CCE234-E08A-4280-AB68-A523BD65A2CF}|Examen01\\Examen01.csproj|solutionrelative:examen01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\alumne-DAM\\Documents\\Github\\Interfaces\\Examen01\\Examen01\\Examen01\\Form1.cs",
+              "RelativeDocumentMoniker": "Examen01\\Form1.cs",
+              "ToolTip": "C:\\Users\\alumne-DAM\\Documents\\Github\\Interfaces\\Examen01\\Examen01\\Examen01\\Form1.cs*",
+              "RelativeToolTip": "Examen01\\Form1.cs*",
+              "ViewState": "AgIAADQAAAAAAAAAAAD4v0MAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T15:18:22.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\alumne-DAM\\Documents\\Github\\Interfaces\\Examen01\\Examen01\\Examen01\\Form1.cs",
+              "RelativeDocumentMoniker": "Examen01\\Form1.cs",
+              "ToolTip": "C:\\Users\\alumne-DAM\\Documents\\Github\\Interfaces\\Examen01\\Examen01\\Examen01\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Examen01\\Form1.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T15:11:44.416Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+C:\Users\alumne-DAM\Documents\Github\Interfaces\Actividad01\Actividad01\bin\Debug\net8.0-windows\Actividad01.exe
+C:\Users\alumne-DAM\Documents\Github\Interfaces\Actividad01\Actividad01\bin\Debug\net8.0-windows\Actividad01.deps.json
+C:\Users\alumne-DAM\Documents\Github\Interfaces\Actividad01\Actividad01\bin\Debug\net8.0-windows\Actividad01.runtimeconfig.json
+C:\Users\alumne-DAM\Documents\Github\Interfaces\Actividad01\Actividad01\bin\Debug\net8.0-windows\Actividad01.dll
+C:\Users\alumne-DAM\Documents\Github\Interfaces\Actividad01\Actividad01\bin\Debug\net8.0-windows\Actividad01.pdb
+C:\Users\alumne-DAM\Documents\Github\Interfaces\Actividad01\Actividad01\obj\Debug\net8.0-windows\Actividad01.Form1.resources
+C:\Users\alumne-DAM\Documents\Github\Interfaces\Actividad01\Actividad01\obj\Debug\net8.0-windows\Actividad01.csproj.GenerateResource.cache
+C:\Users\alumne-DAM\Documents\Github\Interfaces\Actividad01\Actividad01\obj\Debug\net8.0-windows\Actividad01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumne-DAM\Documents\Github\Interfaces\Actividad01\Actividad01\obj\Debug\net8.0-windows\Actividad01.AssemblyInfoInputs.cache
+C:\Users\alumne-DAM\Documents\Github\Interfaces\Actividad01\Actividad01\obj\Debug\net8.0-windows\Actividad01.AssemblyInfo.cs
+C:\Users\alumne-DAM\Documents\Github\Interfaces\Actividad01\Actividad01\obj\Debug\net8.0-windows\Actividad01.csproj.CoreCompileInputs.cache
+C:\Users\alumne-DAM\Documents\Github\Interfaces\Actividad01\Actividad01\obj\Debug\net8.0-windows\Actividad01.dll
+C:\Users\alumne-DAM\Documents\Github\Interfaces\Actividad01\Actividad01\obj\Debug\net8.0-windows\refint\Actividad01.dll
+C:\Users\alumne-DAM\Documents\Github\Interfaces\Actividad01\Actividad01\obj\Debug\net8.0-windows\Actividad01.pdb
+C:\Users\alumne-DAM\Documents\Github\Interfaces\Actividad01\Actividad01\obj\Debug\net8.0-windows\Actividad01.genruntimeconfig.cache
+C:\Users\alumne-DAM\Documents\Github\Interfaces\Actividad01\Actividad01\obj\Debug\net8.0-windows\ref\Actividad01.dll
