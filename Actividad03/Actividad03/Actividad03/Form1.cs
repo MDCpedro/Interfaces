@@ -34,7 +34,8 @@ namespace Actividad03
                     {
                         case "Administrador":
                             listBox1.Items.Add(nombre_completo);
-                            contador = int.Parse(contadorAdmin.ToString()+1);
+                            contador = int.Parse(contadorAdmin.Text);
+                            contador++; 
                             contadorAdmin.Text = contador.ToString();
                             textBox1.Clear();
                             textBox2.Clear();
@@ -42,6 +43,9 @@ namespace Actividad03
 
                         case "Usuario":
                             listBox2.Items.Add(nombre_completo);
+                            contador = int.Parse(contadorUsuario.Text);
+                            contador++;
+                            contadorUsuario.Text = contador.ToString();
                             textBox1.Clear();
                             textBox2.Clear();
                             break;

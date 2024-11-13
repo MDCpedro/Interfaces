@@ -1,0 +1,17 @@
+C:\Users\alumne-DAM\Documents\Github\Interfaces\Actividad04\Actividad04\Actividad04\bin\Debug\net8.0-windows\Actividad04.exe
+C:\Users\alumne-DAM\Documents\Github\Interfaces\Actividad04\Actividad04\Actividad04\bin\Debug\net8.0-windows\Actividad04.deps.json
+C:\Users\alumne-DAM\Documents\Github\Interfaces\Actividad04\Actividad04\Actividad04\bin\Debug\net8.0-windows\Actividad04.runtimeconfig.json
+C:\Users\alumne-DAM\Documents\Github\Interfaces\Actividad04\Actividad04\Actividad04\bin\Debug\net8.0-windows\Actividad04.dll
+C:\Users\alumne-DAM\Documents\Github\Interfaces\Actividad04\Actividad04\Actividad04\bin\Debug\net8.0-windows\Actividad04.pdb
+C:\Users\alumne-DAM\Documents\Github\Interfaces\Actividad04\Actividad04\Actividad04\obj\Debug\net8.0-windows\Actividad04.Form1.resources
+C:\Users\alumne-DAM\Documents\Github\Interfaces\Actividad04\Actividad04\Actividad04\obj\Debug\net8.0-windows\Actividad04.csproj.GenerateResource.cache
+C:\Users\alumne-DAM\Documents\Github\Interfaces\Actividad04\Actividad04\Actividad04\obj\Debug\net8.0-windows\Actividad04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumne-DAM\Documents\Github\Interfaces\Actividad04\Actividad04\Actividad04\obj\Debug\net8.0-windows\Actividad04.AssemblyInfoInputs.cache
+C:\Users\alumne-DAM\Documents\Github\Interfaces\Actividad04\Actividad04\Actividad04\obj\Debug\net8.0-windows\Actividad04.AssemblyInfo.cs
+C:\Users\alumne-DAM\Documents\Github\Interfaces\Actividad04\Actividad04\Actividad04\obj\Debug\net8.0-windows\Actividad04.csproj.CoreCompileInputs.cache
+C:\Users\alumne-DAM\Documents\Github\Interfaces\Actividad04\Actividad04\Actividad04\obj\Debug\net8.0-windows\Actividad04.sourcelink.json
+C:\Users\alumne-DAM\Documents\Github\Interfaces\Actividad04\Actividad04\Actividad04\obj\Debug\net8.0-windows\Actividad04.dll
+C:\Users\alumne-DAM\Documents\Github\Interfaces\Actividad04\Actividad04\Actividad04\obj\Debug\net8.0-windows\refint\Actividad04.dll
+C:\Users\alumne-DAM\Documents\Github\Interfaces\Actividad04\Actividad04\Actividad04\obj\Debug\net8.0-windows\Actividad04.pdb
+C:\Users\alumne-DAM\Documents\Github\Interfaces\Actividad04\Actividad04\Actividad04\obj\Debug\net8.0-windows\Actividad04.genruntimeconfig.cache
+C:\Users\alumne-DAM\Documents\Github\Interfaces\Actividad04\Actividad04\Actividad04\obj\Debug\net8.0-windows\ref\Actividad04.dll
